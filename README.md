@@ -10,6 +10,7 @@ Example project website made using DOM Components Package library / frameworks f
 ### All components in ./src folder
 
 **app-root**: App.js
+
 Has all the components embedded and manages state.
 
 ### Other components in ./src/components folder
